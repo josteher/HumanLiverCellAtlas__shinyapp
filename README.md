@@ -13,6 +13,7 @@
 
 ### Instructions for running
 
-1. Download directory and additional data on zenodo.
-2. Add and unzip the data from zenodo into the Data directory of the app.
-3. Run the server.R script in a new R session.
+1. Download code and move it into a new directory with a separate Data directory
+2. Download data on zenodo.
+3. Move downloaded and unzipped data from zenodo into the Data directory.
+5. Run the server.R script in a new R session.
